@@ -1,4 +1,26 @@
-h1 {
-    color: blue;
-    font: optional;
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    scroll-behavior: smooth;
+}
+
+html {
+    font-size: 50%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: "Poppins", sans-serif;
+}
+
+/* Common */
+a {
+    text-decoration: none;
+}
+
+h2 {
+    font-family: "Sen", sans-serif;
 }
